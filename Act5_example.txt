@@ -1,0 +1,7 @@
+Hello, Welcome to Python Programming!
+File saved safely with pathlib.
+Python makes file handling easy!
+This line was added!
+This is another appended line.
+Appending multiple lines is easy!
+hello
